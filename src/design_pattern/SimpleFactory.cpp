@@ -43,7 +43,7 @@ int main() {
     pro = factory.Product("B");
     pro->show();
     delete pro;
-    // return 0;
+    return 0;
 }
 
 // 分析：
